@@ -1,5 +1,6 @@
 /*
 Author: Jose Angel Garcia Gomez
+Date: 02/2021
 Description: Program that contains the main function that will be used to test the program
 */
 
