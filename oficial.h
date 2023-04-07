@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class definition of the Oficial class
+*/
+
 #ifndef OFICIAL_H_
 #define OFICIAL_H_
 #include <iostream>

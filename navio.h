@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class definition of the Navio class that will be used as a base
+*/
+
 #ifndef NAVIO_H_
 #define NAVIO_H_
 #include <iostream>

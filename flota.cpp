@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class Methods Implementations of the Flota class
+*/
+
 #include "flota.h"
 #include <iostream>
 #include <string>

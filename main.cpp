@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the main function that will be used to test the program
+*/
+
 #include "oficial.h"
 #include "Destructor.h"
 #include "Submarino.h"

@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class Methods implementations of the Destructor class
+*/
+
 #include "destructor.h"
 #include <iostream>
 

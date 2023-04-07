@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class definition of the Transportador class
+*/
+
 #ifndef TRANSPORTADOR_H_
 #define TRANSPORTADOR_H_
 #include <iostream>

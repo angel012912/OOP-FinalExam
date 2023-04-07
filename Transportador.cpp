@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class Methods Implementation of the Transportador class
+*/
+
 #include "Transportador.h"
 #include <iostream>
 

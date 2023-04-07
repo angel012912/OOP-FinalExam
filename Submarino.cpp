@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class Methods Implementation of the Submarino class
+*/
+
 #include "Submarino.h"
 #include <iostream>
 

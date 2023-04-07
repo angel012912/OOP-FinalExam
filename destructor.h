@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class definition of the Destructor class using inheritance from the Navio class
+*/
+
 #ifndef DESTRUCTOR_H_
 #define DESTRUCTOR_H_
 #include <iostream>

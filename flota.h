@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class definition of the Flota class that will be used to store the information of the Flota
+*/
+
 #ifndef FLOTA_H_
 #define FLOTA_H_
 #include "navio.h"

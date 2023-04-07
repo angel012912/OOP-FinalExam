@@ -1,3 +1,8 @@
+/*
+Author: Jose Angel Garcia Gomez
+Description: Program that contains the Class definition of the Submarino class
+*/
+
 #ifndef SUBMARINO_H_
 #define SUBMARINO_H_
 #include <iostream>
