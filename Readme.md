@@ -1,7 +1,7 @@
-#  <img src="https://libreria-ditesa.com/media/catalog/category/pngwing.com.png" alt="ITESM Logo" style="float: center; margin-right: 50px;" width="200"/> POO Final Exam 
+#  <img src="https://libreria-ditesa.com/media/catalog/category/pngwing.com.png" alt="ITESM Logo" style="float: center; margin-right: 50px;" width="200"/> OOP Final Exam 
 
 ## Description
-This programs were developed for the final examen of the subject "Object Oriented Programming" were the main objective was to demostrate the knowledge of how to implement the main topics about POO. 
+This programs were developed for the final examen of the subject "Object Oriented Programming" were the main objective was to demostrate the knowledge of how to implement the main topics about OOP. 
 
 ## Main Learnings 
 * Class definition and implementation
